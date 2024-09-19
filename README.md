@@ -1,1 +1,1 @@
-# elite_news
+# elite_news_project
